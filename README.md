@@ -100,7 +100,7 @@
 - Flutter SDK 3.x
 - Android Studio or VS Code with Flutter plugin
 - Android device/emulator (API 28+) or iOS device/simulator (iOS 13+)
-- Backend server running (see [foodsnap-ai-backend](https://github.com/YOUR_USERNAME/foodsnap-ai-backend))
+- Backend server running (see [foodsnap-ai-backend](https://github.com/raaahul2003/foodsnap-ai-backend))
 
 ### Installation
 
