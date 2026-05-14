@@ -28,12 +28,13 @@
   <tr>
     <td align="center"><b>Welcome Screen</b></td>
     <td align="center"><b>Login</b></td>
-    <td align="center"><b>Create Account</b></td>
+    <td align="center"><b>Dashboard</b></td>
+
   </tr>
   <tr>
-    <td><img src="IMG_9592.JPG" width="220"/></td>
     <td><img src="IMG_9588.JPG" width="220"/></td>
-    <td><img src="IMG_9596.JPG" width="220"/></td>
+    <td><img src="IMG_9589.JPG" width="220"/></td>
+    <td><img src="IMG_9592.JPG" width="220"/></td>
   </tr>
 </table>
 
@@ -41,13 +42,13 @@
 
 <table>
   <tr>
-    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Create Account</b></td>
     <td align="center"><b>Food Scan (Nutrition Result)</b></td>
     <td align="center"><b>AI Daily Food Plan</b></td>
   </tr>
   <tr>
-    <td><img src="IMG_9591.JPG" width="220"/></td>
     <td><img src="IMG_9593.jpg" width="220"/></td>
+    <td><img src="IMG_9595.JPG" width="220"/></td>
     <td><img src="IMG_9594.JPG" width="220"/></td>
   </tr>
 </table>
@@ -61,9 +62,9 @@
     <td align="center"><b>NutriBot Chatbot</b></td>
   </tr>
   <tr>
-    <td><img src="IMG_9595.JPG" width="220"/></td>
     <td><img src="IMG_9590.JPG" width="220"/></td>
-    <td><img src="IMG_9589.JPG" width="220"/></td>
+    <td><img src="IMG_9596.JPG" width="220"/></td>
+    <td><img src="IMG_9591.JPG" width="220"/></td>
   </tr>
 </table>
 
