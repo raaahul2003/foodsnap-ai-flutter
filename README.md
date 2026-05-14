@@ -34,7 +34,8 @@
   <tr>
     <td><img src="IMG_9588.JPG" width="220"/></td>
     <td><img src="IMG_9589.JPG" width="220"/></td>
-    <td><img src="IMG_9592.JPG" width="220"/></td>
+    <td><img src="IMG_9593.jpg" width="220"/></td>
+    
   </tr>
 </table>
 
@@ -47,7 +48,7 @@
     <td align="center"><b>AI Daily Food Plan</b></td>
   </tr>
   <tr>
-    <td><img src="IMG_9593.jpg" width="220"/></td>
+    <td><img src="IMG_9592.JPG" width="220"/></td>
     <td><img src="IMG_9595.JPG" width="220"/></td>
     <td><img src="IMG_9594.JPG" width="220"/></td>
   </tr>
