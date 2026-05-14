@@ -22,14 +22,61 @@
 
 ## 📸 Screenshots
 
-| <img width="1080" height="2553" alt="IMG_9589" src="https://github.com/user-attachments/assets/4bf4d03d-4be8-49a4-8b7a-e16d5b22e38b" />
- | Create Account | Dashboard | Food Scan |
-|-------|---------------|-----------|-----------|
-| Sign in screen | Multi-step registration | Daily calorie tracker | Snap & analyze |
+### Welcome & Authentication
 
-| Nutrition Result | Nutrition Insights | AI Food Plan | SafeBite Scanner |
-|-----------------|-------------------|-------------|-----------------|
-| Full macros breakdown | Weekly snapshot | Personalized daily plan | OCR ingredient safety |
+<table>
+  <tr>
+    <td align="center"><b>Welcome Screen</b></td>
+    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Create Account</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/IMG_9592.JPG" width="220"/></td>
+    <td><img src="screenshots/IMG_9588.JPG" width="220"/></td>
+    <td><img src="screenshots/IMG_9596.JPG" width="220"/></td>
+  </tr>
+</table>
+
+### Core Features
+
+<table>
+  <tr>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Food Scan (Nutrition Result)</b></td>
+    <td align="center"><b>AI Daily Food Plan</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/IMG_9591.JPG" width="220"/></td>
+    <td><img src="screenshots/IMG_9593.jpg" width="220"/></td>
+    <td><img src="screenshots/IMG_9594.JPG" width="220"/></td>
+  </tr>
+</table>
+
+### AI-Powered Tools
+
+<table>
+  <tr>
+    <td align="center"><b>SafeBite Scanner</b></td>
+    <td align="center"><b>SafeBite Results</b></td>
+    <td align="center"><b>NutriBot Chatbot</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/IMG_9595.JPG" width="220"/></td>
+    <td><img src="screenshots/IMG_9590.JPG" width="220"/></td>
+    <td><img src="screenshots/IMG_9589.JPG" width="220"/></td>
+  </tr>
+</table>
+
+> 💡 **Note for GitHub**: Place the image files in a `screenshots/` folder at the root of the repository. The images map as follows:
+> - `IMG_9592.JPG` → Welcome Screen
+> - `IMG_9588.JPG` → Login
+> - `IMG_9596.JPG` → Create Account
+> - `IMG_9591.JPG` → Dashboard
+> - `IMG_9593.jpg` → Food Scan / Nutrition Result
+> - `IMG_9594.JPG` → AI Daily Food Plan
+> - `IMG_9595.JPG` → SafeBite Scanner
+> - `IMG_9590.JPG` → SafeBite Results
+> - `IMG_9589.JPG` → NutriBot
 
 ---
 
@@ -145,6 +192,7 @@ eatwise_ai/
 ├── assets/
 │   ├── models/                # TFLite model files
 │   └── images/                # App assets
+├── screenshots/               # App screenshots (README images)
 ├── android/                   # Android-specific configs
 ├── ios/                       # iOS-specific configs
 └── pubspec.yaml               # Dependencies
