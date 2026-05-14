@@ -22,7 +22,8 @@
 
 ## 📸 Screenshots
 
-| Login | Create Account | Dashboard | Food Scan |
+| <img width="1080" height="2553" alt="IMG_9589" src="https://github.com/user-attachments/assets/4bf4d03d-4be8-49a4-8b7a-e16d5b22e38b" />
+ | Create Account | Dashboard | Food Scan |
 |-------|---------------|-----------|-----------|
 | Sign in screen | Multi-step registration | Daily calorie tracker | Snap & analyze |
 
